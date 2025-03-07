@@ -44,12 +44,6 @@
 ## 📷 界面预览  
 ### 🌟 首页 / 🛒 商品详情 
 - 以下截图展示了平台核心功能界面：  
-
-
-
-## 🎬 项目演示视频  
-📺 点击观看完整项目讲解视频：  
-[传智杯Web开发挑战赛（校园二手商城项目）](https://www.bilibili.com/video/BV1F791YqEW3)  
 ![前端 (8)](https://github.com/user-attachments/assets/14054cff-ec3c-4ff8-8dba-8c7c088645be)
 ![后端 (2)](https://github.com/user-attachments/assets/c2fe5761-bf8c-4434-b23d-197b1084fcb7)
 ![前端 (1)](https://github.com/user-attachments/assets/af143a75-0544-495e-8542-25555a9c39fa)
@@ -60,8 +54,9 @@
 ![前端 (4)](https://github.com/user-attachments/assets/a29bdbe6-de7d-415d-87f4-2e7e84a55305)
 
 
-
-
+## 🎬 项目演示视频  
+📺 点击观看完整项目讲解视频：  
+[传智杯Web开发挑战赛（校园二手商城项目）](https://www.bilibili.com/video/BV1F791YqEW3)  
 
 
 
