@@ -4,6 +4,8 @@
 👨💻 作者：wuyou20240101  
 🎥 **Bilibili UP: [禾邧](https://space.bilibili.com/1668035101?spm_id_from=333.1007.0.0)**  
 📅 更新日期：2025.03.07（持续优化中🚀）  
+有任何疑问可以去“中国大学生开放论坛”进行交流
+网址 https://www.offccs.cn
 
 如果您喜欢这个项目❤，请慷慨地给它点个 Star 🌟 吧！  
 
